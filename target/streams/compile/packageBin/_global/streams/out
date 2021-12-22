@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\dneichev\Documents\mcit5-6-main\target\scala-2.13\hello-test-1_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\dneichev\Documents\mcit5-6-main\target\scala-2.13\classes\HelloActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\dneichev\Documents\mcit5-6-main\target\scala-2.13\classes\HelloActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\dneichev\Documents\mcit5-6-main\target\scala-2.13\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\dneichev\Documents\mcit5-6-main\target\scala-2.13\classes\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\dneichev\Documents\mcit5-6-main\target\scala-2.13\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
